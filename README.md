@@ -43,7 +43,7 @@ The lab's [research page](https://hugoxk.online/research/) collects the AgentDes
 - **M.S. in Computer Science**, UC San Diego — Machine Learning concentration, 2024
 - **B.S. in Electrical Engineering** (minor in Computer Science), UIUC, dual-degree program with Zhejiang University, 2023
 - **B.Eng. in Electrical Engineering and Automation**, Zhejiang University, 2023
-- Previously: Ant Group (LLM applications for anti-money laundering) and State Street (AI-based reconciliation)
+- Previously: Algorithm Engineer Intern at Ant Group (LLM applications for anti-money laundering) and AI Engineer Intern at State Street (AI-based reconciliation)
 
 Selected honors: Huawei 2012 Star Award (2026), STDT Outstanding Project Delivery Award (2026), NSF REU Scholarship (2022), MCM/ICM Meritorious Winner (2021).
 
