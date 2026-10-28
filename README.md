@@ -27,7 +27,7 @@ I build systems where agents improve themselves. At Huawei 2012 Laboratory I wor
 
 [hugoxk.online](https://hugoxk.online) is my personal research lab: one open-source framework, three online services, and a shared console. The site publishes project pages, release notes, and research results.
 
-Current open-source work is published here and in the upstream repositories:
+Current open-source work is published here and in the upstream repositories. The RSI framework and agent-software work below is part of my work at Huawei 2012 Laboratory:
 
 | Project | What it is | Role | Links |
 | --- | --- | --- | --- |
